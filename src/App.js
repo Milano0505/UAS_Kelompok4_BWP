@@ -1311,7 +1311,7 @@ export default function App() {
           )}
 
           {showActivitiesPanel && (
-            <div className="overlay">
+            <div className="list-overlay">
               <div className="box">
                 <h1>Activities List</h1>
 
